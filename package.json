@@ -1,0 +1,29 @@
+{
+  "name": "modo-asincron",
+  "version": "1.0.0",
+  "description": "modo-asincron",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon promises/1_simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristiannAvilaa/Modo-Asincron.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "Modo Asincron"
+  ],
+  "author": "Cristian Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristiannAvilaa/Modo-Asincron/issues"
+  },
+  "homepage": "https://github.com/CristiannAvilaa/Modo-Asincron#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
